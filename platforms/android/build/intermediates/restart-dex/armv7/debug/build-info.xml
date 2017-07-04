@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="340948396069533"
+    token="-292651954929370443"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="6782" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="14408" />
+    <task
+        name="verifier"
+        duration="672" />
+
+    <artifact
+        location="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\outputs\apk\android-armv7-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="340948396069533"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\outputs\apk\android-armv7-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

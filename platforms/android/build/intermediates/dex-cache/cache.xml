@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\support-annotations-26.0.0-alpha1_7cfb0f5583fc83ae195f760a9eb03ff69eb89d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-iid-10.0.1_87de68e8b2e168f8642fa3229b54e1ffc4267323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-core-ui-26.0.0-alpha1_ccb226181f1d928374458d61bd6ab7e0d465b348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-common-10.0.1_80602c90d512ed3c379c3f098cc9f89458b6f22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\org.xwalk\xwalk_core_library\23.53.589.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="834071525d6d2707eb4c7f76b728d8cd14b17ae1">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\org.xwalk-xwalk_core_library-23.53.589.4_801ba27e234b43e63d0b1bc40932ff6e0d753a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-tasks-10.0.1_6179562722aa41f268c9e95c84cafcde1b5467d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-media-compat-26.0.0-alpha1_ebb24db756b707d1447317d9d6b1366b5d09c8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\incremental-classes\armv7\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2212c59980bff81c15c39ef11de9a3c198bfe14">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\instant-run-bootstrap_6fe3818418b02f91a060564e343552a20e8686f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-media-compat-26.0.0-alpha1_ebb24db756b707d1447317d9d6b1366b5d09c8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-analytics-10.0.1_061c9a204e87e5919ad30b2fa6d4b963e537460f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-identity-10.0.1_a9eeb72069d7a91e3ea11e84188e333a5472d309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-config-10.0.1_4d0a92b0c97dd52cd330c23452944844b87f0c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-core-utils-26.0.0-alpha1_44d4a1628d1a77056f36a51faf06c92ef160af61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-messaging-10.0.1_a23313bfc9ae99301310b18378aad5848b8737f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-iid-10.0.1_87de68e8b2e168f8642fa3229b54e1ffc4267323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-core-utils-26.0.0-alpha1_44d4a1628d1a77056f36a51faf06c92ef160af61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-identity-10.0.1_a9eeb72069d7a91e3ea11e84188e333a5472d309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-messaging-10.0.1_a23313bfc9ae99301310b18378aad5848b8737f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\incremental-runtime-classes\armv7\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10b6de758a6289f79f53caf49fd49fea236a7396">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\instant-run_2264716cc7bc6e6c04d2676c16fe889fe076beae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-basement-10.0.1_127b4a1585e5fc4f9513ab23112f80c1ff7c1123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\me.leolin-ShortcutBadger-1.1.4_5faedea4c4cd07d5dede4f392c16b230c0498f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-analytics-impl-10.0.1_53d4f61ea8bad0c29473b3b0c3016701eb38c69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-auth-10.0.1_c3ebc63b209ff9a2e921aef4fdc3f2a37c7927c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-config-10.0.1_4d0a92b0c97dd52cd330c23452944844b87f0c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-analytics-10.0.1_061c9a204e87e5919ad30b2fa6d4b963e537460f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\me.leolin-ShortcutBadger-1.1.4_5faedea4c4cd07d5dede4f392c16b230c0498f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-analytics-impl-10.0.1_53d4f61ea8bad0c29473b3b0c3016701eb38c69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-auth-10.0.1_c3ebc63b209ff9a2e921aef4fdc3f2a37c7927c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-tasks-10.0.1_6179562722aa41f268c9e95c84cafcde1b5467d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-fragment-26.0.0-alpha1_998c646306058d615ad6477e655027364e5ac8f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-crash-10.0.1_c5e4968b52ac81f0f674e4d654a769e6604571e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-v4-26.0.0-alpha1_9b75cc39d41322ed5e30f99eaf0eaef8bd59204f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-basement-10.0.1_127b4a1585e5fc4f9513ab23112f80c1ff7c1123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-crash-10.0.1_c5e4968b52ac81f0f674e4d654a769e6604571e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-core-ui-26.0.0-alpha1_ccb226181f1d928374458d61bd6ab7e0d465b348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-compat-26.0.0-alpha1_a8b2ac7ee2b95d061662ea3a33540dcdebcfc4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-compat-26.0.0-alpha1_a8b2ac7ee2b95d061662ea3a33540dcdebcfc4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\support-annotations-26.0.0-alpha1_7cfb0f5583fc83ae195f760a9eb03ff69eb89d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-fragment-26.0.0-alpha1_998c646306058d615ad6477e655027364e5ac8f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\org.xwalk\xwalk_core_library\23.53.589.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="834071525d6d2707eb4c7f76b728d8cd14b17ae1">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\org.xwalk-xwalk_core_library-23.53.589.4_801ba27e234b43e63d0b1bc40932ff6e0d753a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.firebase-firebase-common-10.0.1_80602c90d512ed3c379c3f098cc9f89458b6f22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.android.support-support-v4-26.0.0-alpha1_9b75cc39d41322ed5e30f99eaf0eaef8bd59204f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-base-10.0.1_ca348792b3a03dd46954b1b4926ba1cfda9e44a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-auth-base-10.0.1_aa43c277059967bde5ff8bb92865942b62e9249a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-auth-base-10.0.1_aa43c277059967bde5ff8bb92865942b62e9249a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\acer\Pictures\ionic3Chat-master\platforms\android\build\intermediates\pre-dexed\armv7\debug\com.google.android.gms-play-services-base-10.0.1_ca348792b3a03dd46954b1b4926ba1cfda9e44a1.jar" />
+    </item>
+
+</items>
