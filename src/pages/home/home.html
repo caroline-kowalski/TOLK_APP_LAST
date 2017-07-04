@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-navbar>
+  <img width="50" src="assets/images/logoblanc.png"/>
+    <ion-title>Profil</ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="logout()"><ion-icon name="md-log-out" item-right></ion-icon></button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <div *ngIf="user">
+    <ion-list>
+      <ion-list-header>
+        Mon compte
+      </ion-list-header>
+      <ion-item no-lines>
+        <ion-avatar item-left>
+          <img src="{{user.img}}" tappable (click)="setPhoto()">
+        </ion-avatar>
+        <h2 tappable (click)="setName()">{{user.name}} </h2>
+        <p tappable (click)="setUsername()" class="username">@{{user.username}}</p>
+      </ion-item>
+      <ion-list-header>
+        Statut
+      </ion-list-header>
+      <ion-item no-lines>
+        <p tappable (click)="setDescription()" class="description">{{user.description}}</p>
+      </ion-item>
+      <ion-list-header>
+        Plus
+      </ion-list-header>
+      <ion-item no-lines tappable (click)="setEmail()">
+        Changer d'adresse email
+      </ion-item>
+      <ion-item no-lines tappable (click)="setPassword()" *ngIf="user && user.provider == 'Firebase'">
+        Changer de mot de passe
+      </ion-item>
+      <ion-item no-lines tappable (click)="deleteAccount()">
+        Supprimer mon compte
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>

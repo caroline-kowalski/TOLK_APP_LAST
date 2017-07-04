@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-navbar>
+  <img width="50" src="assets/images/logoblanc.png"/>
+    <ion-title>Messages</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only tappable (click)="newMessage()"><ion-icon name="ios-create"></ion-icon></button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <!-- No conversations to show -->
+  <div class="empty-list" *ngIf="conversations && conversations.length <= 0">
+    <h1><ion-icon name="text"></ion-icon></h1>
+    <p>Pas de conversation pour le moment</p>
+    <button ion-button icon-left tappable (click)="newMessage()"><ion-icon name="md-add"></ion-icon>Démarrer une conversation</button>
+  </div>
+  <!-- Show conversations -->
+  <ion-list class="avatar-list" *ngIf="conversations && conversations.length > 0">
+    <ion-searchbar [(ngModel)]="searchFriend" placeholder="Chercher un ami" showCancelButton="true" cancelButtonText="Terminé"></ion-searchbar>
+    <ion-item *ngFor="let conversation of conversations | conversationFilter:searchFriend" no-lines tappable (click)="message(conversation.$key)">
+      <ion-avatar item-left *ngIf="conversation.friend">
+        <img src="{{conversation.friend.img}}">
+      </ion-avatar>
+      <div [ngClass]=hasUnreadMessages(conversation)>
+        <h2 *ngIf="conversation.friend">{{conversation.friend.name}}</h2>
+        <ion-badge color="danger" *ngIf="conversation.unreadMessagesCount > 0">{{conversation.unreadMessagesCount}}</ion-badge>
+        <p>{{conversation.message}}</p>
+        <span>{{conversation.date | DateFormat}}</span>
+      </div>
+    </ion-item>
+  </ion-list>
+</ion-content>

@@ -1,0 +1,40 @@
+page-verification {
+  ion-content{
+    padding-top: 20vh;
+  }
+
+  .scroll-content{
+
+    background-color: rgb(236,237,237);
+    font-family: BentonSansCond-Light;
+  }
+  .page{
+    margin-top: 10vh;
+  }
+
+  #logo{
+
+    margin-top: 10vh;
+  }
+
+  h4,
+  p {
+    text-align: center;
+  }
+
+  h4 {
+    color: $primary;
+  }
+
+  p {
+    color: black;
+  }
+
+  p span {
+    color: $primary;
+  }
+  ion-icon{
+    color: $primary;
+    font-size: 2.5em;
+  }
+}

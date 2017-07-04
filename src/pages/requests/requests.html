@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-navbar hideBackButton="true">
+  <img width="50" src="assets/images/logoblanc.png"/>
+    <ion-buttons>
+      <button ion-button tappable (click)="back()">Retour</button>
+    </ion-buttons>
+    <ion-title>Demande d'ami</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <!-- No friend requests sent or received. -->
+  <div class="empty-list" *ngIf="(friendRequests && friendRequests.length == 0) && (requestsSent && requestsSent.length == 0)">
+    <h1><ion-icon name="md-filing"></ion-icon></h1>
+    <p>Pas de nouvelles demandes</p>
+    <button ion-button icon-left tappable (click)="back()"><ion-icon name="md-arrow-round-back"></ion-icon>Retourner</button>
+  </div>
+  <!-- Show friend requests received. -->
+  <ion-list class="avatar-list" *ngIf="friendRequests && friendRequests.length > 0">
+    <ion-item *ngFor="let friendRequest of friendRequests" no-lines tappable (click)="viewUser(friendRequest.$key)">
+      <ion-fab middle right>
+        <button ion-fab mini tappable (click)="acceptFriendRequest(friendRequest); $event.stopPropagation();">
+          <ion-icon name="md-checkmark-circle" class="success"></ion-icon>
+        </button>
+      </ion-fab>
+      <ion-avatar item-left>
+        <img src="{{friendRequest.img}}">
+      </ion-avatar>
+      <h2>{{friendRequest.name}}</h2>
+      <p>vous a envoyé une demande d'ami.</p>
+    </ion-item>
+  </ion-list>
+  <!-- Show friend requests sent. -->
+  <ion-list class="avatar-list" *ngIf="requestsSent && requestsSent.length > 0">
+    <ion-item *ngFor="let requestSent of requestsSent" no-lines tappable (click)="viewUser(requestSent.$key)">
+      <ion-fab middle right>
+        <button ion-fab mini tappable (click)="cancelFriendRequest(requestSent); $event.stopPropagation();">
+          <ion-icon name="md-close-circle" class="danger"></ion-icon>
+        </button>
+      </ion-fab>
+      <ion-avatar item-left>
+        <img src="{{requestSent.img}}">
+      </ion-avatar>
+      <h2>{{requestSent.name}}</h2>
+      <p>Demande d'ami envoyé.</p>
+    </ion-item>
+  </ion-list>
+</ion-content>

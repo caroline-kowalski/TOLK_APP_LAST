@@ -1,0 +1,24 @@
+<ion-content>
+<div class="top">
+  <img width="400" id="logo" src="assets/images/tolk.png"/>
+  </div>
+  <div *ngIf="user" class="page">
+    <h4 class="title">Veuillez vérifier votre compte</h4>
+    <p>Veuillez vérifier <span>{{user.email}}</span> afin de continuer</p>
+    <!-- Verification Menu -->
+    <ion-row style="text-align: center;">
+      <ion-col>
+        <ion-icon name="refresh" tappable (click)="sendEmailVerification()"></ion-icon>
+        <p>Réenvoyer l'email de confirmation</p>
+      </ion-col>
+      <ion-col>
+        <ion-icon name="mail" tappable (click)="setEmail()"></ion-icon>
+        <p>Modifier l'adresse email</p>
+      </ion-col>
+      <ion-col>
+        <ion-icon name="log-out" tappable (click)="logout()"></ion-icon>
+        <p>Se déconnecter</p>
+      </ion-col>
+    </ion-row>
+  </div>
+</ion-content>

@@ -1,0 +1,100 @@
+page-accueil {
+
+  .body
+  {
+    text-align: center;
+    background-color: rgb(236,237,237);
+    font-family: BentonSansCond-Light;
+  }
+
+  h1{
+    margin-top:15px;
+    font-size: 26px;
+    margin-bottom:0;
+  }
+
+  h2{
+
+    margin-top:0px;
+    margin-bottom: 0px;
+    font-size: 26px;
+  }
+
+  img
+  {
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+
+  #logo
+  {
+    margin-top: 50px;
+    margin-bottom: 5px;
+    position: relative;
+  }
+
+  #imgBulles
+  {
+    margin-top:0;
+    max-width: 200px;
+  }
+
+  #imgNotes
+  {
+    margin-top:0;
+    max-width: 110px;
+  }
+
+  #imgFormation
+  {
+    margin-top:0;
+    max-width: 120px;
+  }
+
+  h3{
+
+    font-size: 26px;
+    color: tomato;
+    Font-Weight: Bold;
+  }
+
+  p{
+
+    margin-top:-10px;
+    margin-bottom: 0px;
+    font-size: 24px;
+    margin-bottom: 80px;
+    font-family: BentonSansCond-Light;
+  }
+
+  #btnConnexion 
+  {
+     margin-top: 240px;
+     bottom: 0;
+     position: relative;
+  }
+  #btnCo
+  {
+     margin-bottom: 40px;
+     bottom: 0;
+     position: relative;
+  }
+
+  ion-slide 
+  {
+     background-color: rgb(236,237,237);
+  }
+
+  .swiper-pagination
+  {
+    position: absolute;
+    margin-bottom:30%;
+  }
+
+  .swiper-pagination-bullet
+  {
+      background-color: tomato;
+  }
+ 
+}

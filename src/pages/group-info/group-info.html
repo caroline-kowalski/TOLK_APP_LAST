@@ -1,0 +1,61 @@
+<ion-header>
+  <ion-navbar hideBackButton="true">
+  
+  <img width="50" src="assets/images/logoblanc.png"/>
+    <ion-buttons>
+      <button ion-button tappable (click)="back()">Retour</button>
+    </ion-buttons>
+    <ion-title>Informations du groupe</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <!-- Group Info -->
+  <div *ngIf="group">
+    <ion-list>
+      <ion-list-header>
+        Informations du groupe
+      </ion-list-header>
+      <ion-item no-lines>
+        <ion-avatar item-left>
+          <img src="{{group.img}}" tappable (click)="setPhoto()"/>
+        </ion-avatar>
+        <h2 tappable (click)="setName()">{{group.name}}</h2>
+        <p>A débuté il y a {{group.dateCreated | DateFormat}}</p>
+      </ion-item>
+      <ion-list-header>
+        A propos
+      </ion-list-header>
+      <ion-item no-lines>
+        <p class="description" tappable (click)="setDescription()">{{group.description}}</p>
+      </ion-item>
+    </ion-list>
+    <ion-list *ngIf="groupMembers">
+      <ion-list-header>
+        Membres du groupe ({{groupMembers.length}})
+      </ion-list-header>
+      <ion-item (click)="addMembers()">
+        <ion-icon name="add" item-left></ion-icon>
+        <h2>Ajouter des membres</h2>
+      </ion-item>
+      <ion-item *ngFor="let member of groupMembers" (click)="viewUser(member.$key)">
+        <ion-avatar item-left>
+          <img src="{{member.img}}" />
+        </ion-avatar>
+        <h2>{{member.name}}</h2>
+        <p>{{member.description}}</p>
+      </ion-item>
+    </ion-list>
+    <ion-list-header>
+        Plus
+    </ion-list-header>
+    <ion-list style="text-align: center;">
+      <ion-item no-lines tappable (click)="leaveGroup()" *ngIf="groupMembers && groupMembers.length > 1">
+        Quitter le groupe
+      </ion-item>
+      <!-- When there's only one member left, allow deleting of group. -->
+      <ion-item no-lines tappable (click)="deleteGroup()" *ngIf="groupMembers && groupMembers.length <= 1">
+        Supprimer le groupe
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>
